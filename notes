@@ -1,0 +1,3 @@
+Exherbo Notes
+1. (gdk-pixbuf compilation error) Couldn't recognize the image file format for file 'foo.png'
+-> update-mime-database /usr/share/mime
